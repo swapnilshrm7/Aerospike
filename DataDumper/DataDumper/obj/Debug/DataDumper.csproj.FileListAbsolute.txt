@@ -1,0 +1,15 @@
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\bin\Debug\DataDumper.exe.config
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\bin\Debug\DataDumper.exe
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\bin\Debug\DataDumper.pdb
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\bin\Debug\AerospikeClient.dll
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\bin\Debug\CsvHelper.dll
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\bin\Debug\Neo.Lua.dll
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\bin\Debug\AerospikeClient.xml
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\bin\Debug\CsvHelper.xml
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\bin\Debug\Neo.Lua.pdb
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\bin\Debug\Neo.Lua.xml
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\obj\Debug\DataDumper.csprojAssemblyReference.cache
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\obj\Debug\DataDumper.csproj.CoreCompileInputs.cache
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\obj\Debug\DataDumper.csproj.CopyComplete
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\obj\Debug\DataDumper.exe
+C:\Users\swapnil\source\repos\DataDumper\DataDumper\obj\Debug\DataDumper.pdb
